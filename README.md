@@ -1,9 +1,9 @@
 # Neural Style Transfer with TensorFlow and Gradio  
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/) 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/) 
-[![Repo Size](https://img.shields.io/github/repo-size/hi-riddhi/Deep_learning?style=flat-square)](https://github.com/hi-riddhi/Deep_learning) 
-[![Stars](https://img.shields.io/github/stars/hi-riddhi/Deep_learning?style=flat-square)](https://github.com/hi-riddhi/Deep_learning/stargazers) 
-[![Forks](https://img.shields.io/github/forks/hi-riddhi/Deep_learning?style=flat-square)](https://github.com/hi-riddhi/Deep_learning/network/members)  
+[![Repo Size](https://img.shields.io/github/repo-size/hi-riddhi/Deep_learning?style=flat-square)](https://github.com/hi-riddhi/neural_nets) 
+[![Stars](https://img.shields.io/github/stars/hi-riddhi/Deep_learning?style=flat-square)](https://github.com/hi-riddhi/neural_nets/stargazers) 
+[![Forks](https://img.shields.io/github/forks/hi-riddhi/Deep_learning?style=flat-square)](https://github.com/hi-riddhi/neural_nets/network/members)  
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)](#)
 
 
